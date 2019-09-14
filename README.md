@@ -1,4 +1,4 @@
-# Jogo Star 'Asteroids' Wars
+# Jogo Star 'Asteroids' Wars [![Python](https://img.shields.io/pypi/pyversions/3)](https://www.python.org)
 
 Desenvolvido em Python 3 utilizando as bibliotecas:
   - pygame;
