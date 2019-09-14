@@ -35,3 +35,12 @@ As naves inimigas tem o formato do Caça TIE Avançado x1, sendo um caça de eli
 No Jogo, as Naves Inimigas começam a aparecer a partir da Segunda Fase, em que a cada nova fase surge uma nova Nave. Ela é capaz de disparar lasers aleatoriamente, com o propósito de destruir a Millenium Falcon ou os Asteroids. Porém, as Naves Inimigas são destruídas ao colidirem com os Asteroids, então use-os ao seu favor. Cada Nave Inimiga quando destruída pela Millenium Falcon, dá ao jogador 100 pontos.
 
 As Naves Inimigas se movimentam sempre na mesma direção, definida aleatoriamente no momento em que são criadas, e seus lasers são disparados de forma aleatória, ou seja, não sabemos em qual direção serão disparados, portanto, fique esperto!
+
+## Controles de Movimentação da Millenium Falcon
+
+| Botão do teclado  | Função no Jogo |
+| ------------- | ------------- |
+| Tecla `►`  | Gira a Millenium Falcon 45º para a Direita  |
+| Tecla `▲`  | Movimenta a Millenium Falcon para a Frente  |
+| Tecla `◄`  | Gira a Millenium Falcon 45º para a Esquerda  |
+| Tecla `Espaço`  | Dispara um Laser da Millenium Falcon, não funciona mantendo pressionada  |
