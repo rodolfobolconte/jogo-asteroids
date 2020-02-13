@@ -1,11 +1,11 @@
 # Jogo Star 'Asteroids' Wars
 
-[![Python](https://img.shields.io/pypi/pyversions/3)](https://www.python.org)
+[![Python](https://img.shields.io/badge/Python-3.6.8-blue)](https://www.python.org) [![PyCharm](https://img.shields.io/badge/PyCharm-2019.2-17CFB3)](https://www.jetbrains.com/pycharm/whatsnew/#v2019-2-jupyter-notebook)
 
 Desenvolvido em Python 3 utilizando as bibliotecas:
-  - pygame;
-  - random;
-  - time.
+  - PyGame;
+  - Random;
+  - Time.
 
 Realizado durante a cadeira de Programação Orientada a Objetos do Curso Superior de Tecnologia em Telemática.
 
